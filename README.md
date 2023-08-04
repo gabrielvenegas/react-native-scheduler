@@ -24,7 +24,7 @@ npm install @vixtech/react-native-scheduler
 ## Usage
 
 ```js
-import { Scheduler } from 'react-native-scheduler';
+import { Scheduler } from '@vixtech/react-native-scheduler';
 
 // ...
 const onExecute = () => {
