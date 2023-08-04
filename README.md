@@ -5,7 +5,7 @@
 
 # @vixtech/react-native-scheduler
 
-A Scheduler to run a specific function at a specific time for apps that are kept open full time
+A Task Scheduler designed to execute specific functions at designated times within continuously running apps.
 
 ## Installation
 
