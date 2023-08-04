@@ -1,6 +1,6 @@
 {
   "name": "@vixtech/react-native-scheduler",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A Scheduler to run a specific function at a specific time for app that are kept open full time",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
